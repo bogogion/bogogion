@@ -1,16 +1,13 @@
-### Hi there 👋
+# About
+Currently a programmer on the HVA FRC 3824 team.
 
-<!--
-**bogogion/bogogion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages:
+- C
+- Java
 
-Here are some ideas to get you started:
+I enjoy low level programming, computer science, and learning new topics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Current projects
+[NACV](https://github.com/bogogion/NACV) a native AprilTag implementation written in C using v4L2.
+
+[s0ckblaster](https://github.com/bogogion/s0ckblaster) current WIP, creation and customization of raw packets
