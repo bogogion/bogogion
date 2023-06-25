@@ -1,5 +1,5 @@
 # About
-Currently a programmer on the HVA FRC 3824 team.
+Currently programming captain on the HVA FRC 3824 team.
 
 Languages:
 - C
